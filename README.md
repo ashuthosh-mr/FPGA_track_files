@@ -12,7 +12,9 @@ The following repository consists the necessary input test files for the FPGA tr
  Number of nodes = 4720 <br /> 
  Number of edges = 27444 <br />
  Source node = 7 (node index starting from 0) <br />
+ Link : https://sparse.tamu.edu/AG-Monien/3elt
 * Large :
  Number of nodes = 77360     
  Number of edges =  905468   
  Source node =  2481 (node index starting from 0)
+ Link : https://sparse.tamu.edu/SNAP/soc-Slashdot0811
